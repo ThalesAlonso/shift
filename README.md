@@ -20,8 +20,9 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [nodejs](https://nodejs.org/en/)
 - [express](https://expressjs.com/pt-br/)
+- [nodemon](https://www.npmjs.com/package/nodemon)
+- [morgan](https://www.npmjs.com/package/morgan)
 
-## 🔖 Layout
 
 ## Instalação 
 ```node
@@ -35,6 +36,6 @@ yarn start or npm start
 
 Esse projeto está sob a licença MIT. 
 
----
+
 
 <p align="center">Construído por  Thales Alonso</p>
