@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
     <img alt="shift" title="shift" src=".github/og-shift.svg" />
 </h1>
@@ -39,6 +38,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 <p align="center">Construído por  Thales Alonso</p>
-=======
-# shift
->>>>>>> 2cf135475792fa4972b44b293b586cc0eac3d767
