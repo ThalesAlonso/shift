@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <h1 align="center">
-    <img alt="shift" title="shift" src=".github/og-shift.png" />
+    <img alt="shift" title="shift" src=".github/og-shift.svg" />
 </h1>
 
 <p align="center">
