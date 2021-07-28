@@ -52,7 +52,7 @@ routes.get('/', ( req, res) => {
 });
 
 
-routes.post('/add', (req, res) => {
+routes.post('/pedidos', (req, res) => {
     const body = req.body
     
     
